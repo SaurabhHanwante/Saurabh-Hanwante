@@ -1,6 +1,6 @@
-# Hello, I'm [Saurabh]! 👋
+# Hello, I'm Saurabh! 👋
 
-I'm a [Application Specialist] passionate about [Data Analyst]. Welcome to my GitHub profile!
+I'm a Application Specialist passionate about Data Analyst. Welcome to my GitHub profile!
 
 ## About Me
 
